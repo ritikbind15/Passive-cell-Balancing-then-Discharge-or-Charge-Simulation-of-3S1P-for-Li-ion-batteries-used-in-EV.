@@ -1,0 +1,2 @@
+# Passive-cell-Balancing-then-Discharging-Simulation-of-3S1P-for-Li-ion-batteries-used-in-EV.
+This project presents a MATLAB-based simulation of a passive cell balancing algorithm implemented on a 3S1P Li-ion battery configuration using min SoC discharge logic. The goal is to ensure uniform state-of-charge (SoC) across all cells, enhancing the performance, safety, and lifespan of battery packs used in electric Vehicles. 
